@@ -11,5 +11,5 @@ Instructions on how to run the bot are in the collab.
 
 ## Example:
 
-![alt](example.jpg)
+![alt](example.jpeg)
 
